@@ -19,7 +19,7 @@ A project that explores how to use LLMs and text-to-image models for prompt-base
 
 ![image](https://github.com/richiephang/LLM-text2img/assets/76896343/b21e1931-5858-4228-af49-eda4a7082a9d)
 <br><br><br>
-## Findings in writing a working prompt:
+### Findings in writing a working prompt:
 1. Providing sufficient examples in the prompt is important.
 2. Specify word limits can reduce chances of incomplete result from LLM
 3. Break down the prompt in steps if necesary.
